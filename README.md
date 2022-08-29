@@ -2,7 +2,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NathoOliveira&show_icons=true&theme=radical" "https://github.com/anuraghazra/convoychat">
-  <img align="center" whidth:160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathoOliveira&show_icons=true&theme=radical"  />
+  <img align="center" whidth:160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathoOliveira&layout=compact&show_icons=true&theme=radical"  />
 </a>
 
 
