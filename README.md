@@ -21,6 +21,4 @@ Olá Meu Nome é nathanael
    <a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/nodejs.png" style="max-width: 100%;">
    <a href="https://expressjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNathoOliveira&show_icons=true&theme=radical)
-
 
